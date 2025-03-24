@@ -31,20 +31,70 @@ else:
     # Simulación de datos por equipo (normalmente usarías datos reales)
     datos = {
         "Goles": {
-            equipo_local: 1.8,
-            equipo_visitante: 1.2
-        },
-        "Goles_Encajados": {
-            equipo_local: 1.0,
-            equipo_visitante: 1.5
-        },
-        "Tarjetas": {
-            equipo_local: 2.1,
-            equipo_visitante: 2.5
-        },
-        "Córners": {
-            equipo_local: 5.4,
-            equipo_visitante: 4.3
+        "FC Barcelona": 2.68,
+        "Real Madrid": 2.11,
+        "Villarreal": 1.75,
+        "Athletic": 1.57,
+        "Girona": 1.50,
+        "Real Sociedad": 1.46,
+        "Valencia": 1.39,
+        "Betis": 1.36,
+        "Rayo Vallecano": 1.32,
+        "Sevilla": 1.29,
+        "Osasuna": 1.21,
+        "Celta": 1.18,
+        "Espanyol": 1.14,
+        "Getafe": 1.11,
+        "Alavés": 1.07,
+        "Mallorca": 1.04,
+        "Las Palmas": 1.00,
+        "Leganés": 0.96,
+        "Valladolid": 0.93,
+        "Atlético de Madrid": 0.89
+    },
+    "Tarjetas": {
+        "FC Barcelona": 19 / 28,
+        "Real Madrid": 20 / 28,
+        "Villarreal": 23 / 28,
+        "Athletic": 22 / 28,
+        "Girona": 24 / 28,
+        "Real Sociedad": 22 / 28,
+        "Valencia": 26 / 28,
+        "Betis": 23 / 28,
+        "Rayo Vallecano": 27 / 28,
+        "Sevilla": 25 / 28,
+        "Osasuna": 27 / 28,
+        "Celta": 25 / 28,
+        "Espanyol": 26 / 28,
+        "Getafe": 28 / 28,
+        "Alavés": 28 / 28,
+        "Mallorca": 24 / 28,
+        "Las Palmas": 28 / 28,
+        "Leganés": 21 / 28,
+        "Valladolid": 28 / 28,
+        "Atlético de Madrid": 20 / 28
+    },
+    "Córners": {
+        "FC Barcelona": 175 / 28,
+        "Real Madrid": 154 / 28,
+        "Villarreal": 136 / 28,
+        "Athletic": 153 / 28,
+        "Girona": 145 / 28,
+        "Real Sociedad": 155 / 28,
+        "Valencia": 150 / 28,
+        "Betis": 147 / 28,
+        "Rayo Vallecano": 142 / 28,
+        "Sevilla": 142 / 28,
+        "Osasuna": 114 / 28,
+        "Celta": 110 / 28,
+        "Espanyol": 109 / 28,
+        "Getafe": 109 / 28,
+        "Alavés": 127 / 28,
+        "Mallorca": 116 / 28,
+        "Las Palmas": 110 / 28,
+        "Leganés": 108 / 28,
+        "Valladolid": 108 / 28,
+        "Atlético de Madrid": 137 / 28
         }
     }
 
